@@ -1,9 +1,9 @@
-Flask
-pandas
+Flask==2.3.2
+pandas==2.1.4
+numpy==1.24.3
 scikit-learn==1.2.2
-numpy
-seaborn
-nltk
-matplotlib
-regex
-gunicorn
+seaborn==0.12.2
+nltk==3.8.1
+matplotlib==3.7.2
+regex==2023.8.8
+gunicorn==21.2.0
